@@ -1,0 +1,7 @@
+E:\Projetos\MSDN\RegeditRecursive\bin\Debug\RegeditRecursive.exe.config
+E:\Projetos\MSDN\RegeditRecursive\bin\Debug\RegeditRecursive.exe
+E:\Projetos\MSDN\RegeditRecursive\bin\Debug\RegeditRecursive.pdb
+E:\Projetos\MSDN\RegeditRecursive\obj\Debug\RegeditRecursive.csprojResolveAssemblyReference.cache
+E:\Projetos\MSDN\RegeditRecursive\obj\Debug\RegeditRecursive.csproj.CoreCompileInputs.cache
+E:\Projetos\MSDN\RegeditRecursive\obj\Debug\RegeditRecursive.exe
+E:\Projetos\MSDN\RegeditRecursive\obj\Debug\RegeditRecursive.pdb
